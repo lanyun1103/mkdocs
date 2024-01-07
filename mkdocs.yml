@@ -1,0 +1,7 @@
+site_name: What WKY learned today
+site_url: https://docs.noaino.life/
+nav:
+    - Home: index.md
+    - About: about.md
+    - Conda Install: conda安装.md
+theme: readthedocs
