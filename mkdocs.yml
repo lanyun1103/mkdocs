@@ -3,5 +3,5 @@ site_url: https://docs.noaino.life/
 nav:
     - Home: index.md
     - About: about.md
-    - Conda Install: conda安装.md
+    - Code: Code/ 
 theme: readthedocs
